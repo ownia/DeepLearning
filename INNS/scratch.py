@@ -62,8 +62,8 @@ def calculate_loss(model):
     exp_scores = np.exp(z2)
     probs = exp_scores / np.sum(exp_scores, axis=1, keepdims=True)
     # Calculating the loss
-    current_logprobs = -np.log(probs[range(num_examples), y])
-    data_loss = np.sum(current_logprobs)
+    correct_logprobs = -np.log(probs[range(num_examples), y])
+    data_loss = np.sum(correct_logprobs)
     # Add regularization term to loss (optional)
     data_loss += reg_lambda / 2 * (np.sum(np.square(W1)) + np.sum(np.square(W2)))
     return 1. / num_examples * data_loss
@@ -73,7 +73,7 @@ def calculate_loss(model):
 def predict(model, x):
     W1, b1, W2, b2 = model['W1'], model['b1'], model['W2'], model['b2']
     # Forward propagation
-    z1 = X.dot(W1) + b1
+    z1 = x.dot(W1) + b1
     a1 = np.tanh(z1)
     z2 = a1.dot(W2) + b2
     exp_scores = np.exp(z2)
@@ -139,4 +139,13 @@ model = build_model(3, print_loss=True)
 # Plot the decision boundary
 plot_decision_boundary(lambda x: predict(model, x))
 plt.title("Decision Boundary for hidden layer size 3")
+# plt.show()
+
+plt.figure(figsize=(16, 32))
+hidden_layer_dimensions = [1, 2, 3, 4, 5, 20, 50]
+for i, nn_hdim in enumerate(hidden_layer_dimensions):
+    # plt.subplot(5, 2, i + 1)
+    plt.title('Hidden Layer size %d' % nn_hdim)
+    model = build_model(nn_hdim)
+    plot_decision_boundary(lambda x: predict(model, x))
 plt.show()
