@@ -22,7 +22,7 @@ clf.fit(X, y)
 
 
 # Helper function to plot a decision boundary
-# If you don`t fully understanding this function don`t worry, it just generates the contour plot below.
+# If you don't fully understanding this function don't worry, it just generates the contour plot below.
 def plot_decision_boundary(pred_func):
     # Set min and max values and give it some padding
     x_min, x_max = X[:, 0].min() - .5, X[:, 0].max() + .5
@@ -114,7 +114,7 @@ def build_model(nn_hdim, num_passes=20000, print_loss=False):
         dW1 = np.dot(X.T, delta2)
         db1 = np.sum(delta2, axis=0)
 
-        # Add regularization terms (b1 and b2 don`t have regularization terms)
+        # Add regularization terms (b1 and b2 don't have regularization terms)
         dW2 += reg_lambda * W2
         dW1 += reg_lambda * W1
 
@@ -128,7 +128,7 @@ def build_model(nn_hdim, num_passes=20000, print_loss=False):
         model = {'W1': W1, 'b1': b1, 'W2': W2, 'b2': b2}
 
         # Optionally print the loss
-        # This is expensive because it uses the whole dataset, so we don`t want to do it too often.
+        # This is expensive because it uses the whole dataset, so we don't want to do it too often.
         if print_loss and i % 1000 == 0:
             print("Loss after iteration %i: %f" % (i, calculate_loss(model)))
     return model
