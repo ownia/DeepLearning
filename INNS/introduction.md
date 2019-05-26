@@ -62,3 +62,4 @@ $$
 ### Varying the hidden layer size
 
 Get a sense of how varying the hidden layer size affects the result. While a hidden layer of low dimensionality nicely capture the general trend of our data, higher dimensionalities are prone to overfitting. We could counteract overfitting with stronger regularization, but picking the correct size for hidden layer is a much more "economical" solution.
+
