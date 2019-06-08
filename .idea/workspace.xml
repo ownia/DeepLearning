@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
+            <state relative-caret-position="3894">
               <caret line="179" selection-start-line="179" selection-end-line="179" selection-end-column="26" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -30,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="454">
-              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+              <caret line="54" column="76" selection-start-line="54" selection-start-column="76" selection-end-line="54" selection-end-column="76" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -76,7 +75,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="35" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -87,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,6 +115,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,6 +168,9 @@
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -292,12 +294,13 @@
       <workItem from="1559015572136" duration="231000" />
       <workItem from="1559379483239" duration="1045000" />
       <workItem from="1559392899944" duration="8000" />
-      <workItem from="1559781788559" duration="2560000" />
+      <workItem from="1559781788559" duration="2810000" />
+      <workItem from="1559963455764" duration="2216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3844000" />
+    <option name="totallyTimeSpent" value="6310000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -312,10 +315,9 @@
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21782842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22050938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" weight="0.28248587" />
@@ -329,6 +331,7 @@
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.56703913" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Statistic" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -454,19 +457,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/lr_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/lr_utils.py" />
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
+        <state relative-caret-position="3894">
           <caret line="179" selection-start-line="179" selection-end-line="179" selection-end-column="26" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -474,10 +468,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/images/cat_in_iran.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/images/gargouille.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/images/image1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <caret line="54" column="76" selection-start-line="54" selection-start-column="76" selection-end-line="54" selection-end-column="76" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
