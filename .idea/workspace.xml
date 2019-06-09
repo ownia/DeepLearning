@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,20 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="206" column="39" selection-start-line="206" selection-start-column="39" selection-end-line="206" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="213" column="13" selection-start-line="213" selection-end-line="214" />
+            <state relative-caret-position="190">
+              <caret line="558" column="18" selection-start-line="558" selection-start-column="18" selection-end-line="558" selection-end-column="18" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -310,12 +297,12 @@
       <workItem from="1559781788559" duration="2810000" />
       <workItem from="1559963455764" duration="5961000" />
       <workItem from="1560076867101" duration="37000" />
-      <workItem from="1560078507846" duration="356000" />
+      <workItem from="1560078507846" duration="2066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10448000" />
+    <option name="totallyTimeSpent" value="12158000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -343,7 +330,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.43156424" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.56703913" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.38826814" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Statistic" order="13" />
@@ -499,10 +486,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="2831" column="4" selection-start-line="2831" selection-start-column="4" selection-end-line="2831" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="206" column="39" selection-start-line="206" selection-start-column="39" selection-end-line="206" selection-end-column="39" />
+        <state relative-caret-position="190">
+          <caret line="558" column="18" selection-start-line="558" selection-start-column="18" selection-end-line="558" selection-end-column="18" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
