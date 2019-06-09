@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_1.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3894">
-              <caret line="179" selection-start-line="179" selection-end-line="179" selection-end-column="26" />
+            <state relative-caret-position="432">
+              <caret line="206" column="39" selection-start-line="206" selection-start-column="39" selection-end-line="206" selection-end-column="39" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -27,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="303" column="43" lean-forward="true" selection-start-line="303" selection-start-column="43" selection-end-line="303" selection-end-column="43" />
+            <state relative-caret-position="454">
+              <caret line="213" column="13" selection-start-line="213" selection-end-line="214" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -73,6 +74,7 @@
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/assignment2_2.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/lr_utils.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py" />
       </list>
     </option>
   </component>
@@ -120,13 +122,7 @@
               <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
               <item name="DeepLearningAndrewNg" type="462c0819:PsiDirectoryNode" />
               <item name="NNADL" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="PNL" type="462c0819:PsiDirectoryNode" />
+              <item name="week3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment2_2">
+  <component name="RunManager" selected="Python.assignment3_1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,6 +203,9 @@
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -214,6 +213,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment3_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,35 +284,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DeepLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PNL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PNL/tutorial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment3_1" />
         <item itemvalue="Python.assignment2_2" />
         <item itemvalue="Python.assignment2_1" />
         <item itemvalue="Python.learnmatplotlib" />
         <item itemvalue="Python.learnscipy" />
-        <item itemvalue="Python.tutorial" />
       </list>
     </recent_temporary>
   </component>
@@ -312,12 +308,14 @@
       <workItem from="1559379483239" duration="1045000" />
       <workItem from="1559392899944" duration="8000" />
       <workItem from="1559781788559" duration="2810000" />
-      <workItem from="1559963455764" duration="5914000" />
+      <workItem from="1559963455764" duration="5961000" />
+      <workItem from="1560076867101" duration="37000" />
+      <workItem from="1560078507846" duration="356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10008000" />
+    <option name="totallyTimeSpent" value="10448000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,7 +330,7 @@
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22050938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22587131" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -465,16 +463,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/lr_utils.py" />
-    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3894">
-          <caret line="179" selection-start-line="179" selection-end-line="179" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/images/cat_in_iran.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -491,10 +479,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3894">
+          <caret line="179" selection-start-line="179" selection-end-line="179" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="303" column="43" lean-forward="true" selection-start-line="303" selection-start-column="43" selection-end-line="303" selection-end-column="43" />
+        <state relative-caret-position="454">
+          <caret line="213" column="13" selection-start-line="213" selection-end-line="214" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="206" column="39" selection-start-line="206" selection-start-column="39" selection-end-line="206" selection-end-column="39" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
