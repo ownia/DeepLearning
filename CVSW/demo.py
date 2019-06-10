@@ -52,7 +52,7 @@ if __name__ == '__main__':
     nb = MultinomialNB()
     pipe = make_pipeline(vector, nb)
     # 使用交叉验证
-    cross_val_score(pipe, X_train.cutted_comment, y_train, cv=5, scoring='accuracy').mean()
+    print(cross_val_score(pipe, X_train.cutted_comment, y_train, cv=5, scoring='accuracy').mean())
     # 把模型拟合
     pipe.fit(X_train.cutted_comment, y_train)
     y_pred = pipe.predict(X_test.cutted_comment)
