@@ -313,26 +313,18 @@ def backward_propagation(parameters, cache, X, Y):
     m = X.shape[1]
 
     # First, retrieve W1 and W2 from the dictionary "parameters".
-    ### START CODE HERE ### (≈ 2 lines of code)
     W1 = parameters['W1']
     W2 = parameters['W2']
-    ### END CODE HERE ###
-
     # Retrieve also A1 and A2 from dictionary "cache".
-    ### START CODE HERE ### (≈ 2 lines of code)
     A1 = cache['A1']
     A2 = cache['A2']
-    ### END CODE HERE ###
-
     # Backward propagation: calculate dW1, db1, dW2, db2.
-    ### START CODE HERE ### (≈ 6 lines of code, corresponding to 6 equations on slide above)
     dZ2 = A2 - Y
     dW2 = 1 / m * np.dot(dZ2, A1.T)
     db2 = 1 / m * np.sum(dZ2, axis=1, keepdims=True)
     dZ1 = np.dot(W2.T, dZ2) * (1 - np.power(A1, 2))
     dW1 = 1 / m * np.dot(dZ1, X.T)
     db1 = 1 / m * np.sum(dZ1, axis=1, keepdims=True)
-    ### END CODE HERE ###
 
     grads = {"dW1": dW1,
              "db1": db1,
@@ -354,28 +346,20 @@ def update_parameters(parameters, grads, learning_rate=1.2):
     parameters -- python dictionary containing your updated parameters
     """
     # Retrieve each parameter from the dictionary "parameters"
-    ### START CODE HERE ### (≈ 4 lines of code)
     W1 = parameters['W1']
     b1 = parameters['b1']
     W2 = parameters['W2']
     b2 = parameters['b2']
-    ### END CODE HERE ###
-
     # Retrieve each gradient from the dictionary "grads"
-    ### START CODE HERE ### (≈ 4 lines of code)
     dW1 = grads['dW1']
     db1 = grads['db1']
     dW2 = grads['dW2']
     db2 = grads['db2']
-    ## END CODE HERE ###
-
     # Update rule for each parameter
-    ### START CODE HERE ### (≈ 4 lines of code)
     W1 -= learning_rate * dW1
     b1 -= learning_rate * db1
     W2 -= learning_rate * dW2
     b2 -= learning_rate * db2
-    ### END CODE HERE ###
 
     parameters = {"W1": W1,
                   "b1": b1,
@@ -397,39 +381,26 @@ def nn_model(X, Y, n_h, num_iterations=10000, print_cost=False):
     Returns:
     parameters -- parameters learnt by the model. They can then be used to predict.
     """
-
     np.random.seed(3)
     n_x = layer_sizes(X, Y)[0]
     n_y = layer_sizes(X, Y)[2]
-
     # Initialize parameters, then retrieve W1, b1, W2, b2. Inputs: "n_x, n_h, n_y". Outputs = "W1, b1, W2, b2, parameters".
-    ### START CODE HERE ### (≈ 5 lines of code)
     parameters = initialize_parameters(n_x, n_h, n_y)
     W1 = parameters['W1']
     b1 = parameters['b1']
     W2 = parameters['W2']
     b2 = parameters['b2']
-    ### END CODE HERE ###
 
     # Loop (gradient descent)
-
     for i in range(0, num_iterations):
-
-        ### START CODE HERE ### (≈ 4 lines of code)
         # Forward propagation. Inputs: "X, parameters". Outputs: "A2, cache".
         A2, cache = forward_propagation(X, parameters)
-
         # Cost function. Inputs: "A2, Y, parameters". Outputs: "cost".
         cost = compute_cost(A2, Y, parameters)
-
         # Backpropagation. Inputs: "parameters, cache, X, Y". Outputs: "grads".
         grads = backward_propagation(parameters, cache, X, Y)
-
         # Gradient descent parameter update. Inputs: "parameters, grads". Outputs: "parameters".
         parameters = update_parameters(parameters, grads, learning_rate=1.2)
-
-        ### END CODE HERE ###
-
         # Print the cost every 1000 iterations
         if print_cost and i % 1000 == 0:
             print("Cost after iteration %i: %f" % (i, cost))
@@ -448,13 +419,9 @@ def predict(parameters, X):
     Returns
     predictions -- vector of predictions of our model (red: 0 / blue: 1)
     """
-
     # Computes probabilities using forward propagation, and classifies to 0/1 using 0.5 as the threshold.
-    ### START CODE HERE ### (≈ 2 lines of code)
     A2, cache = forward_propagation(X, parameters)
     predictions = (A2 > 0.5)
-    ### END CODE HERE ###
-
     return predictions
 
 
@@ -558,9 +525,8 @@ if __name__ == '__main__':
                 "blobs": blobs,
                 "gaussian_quantiles": gaussian_quantiles}
 
-    ### START CODE HERE ### (choose your dataset)
+    # choose dataset
     dataset = "gaussian_quantiles"
-    ### END CODE HERE ###
 
     X, Y = datasets[dataset]
     X, Y = X.T, Y.reshape(1, Y.shape[0])
@@ -570,4 +536,4 @@ if __name__ == '__main__':
         Y = Y % 2
 
     # Visualize the data
-    plt.scatter(X[0, :], X[1, :], c=Y, s=40, cmap=plt.cm.Spectral);
+    plt.scatter(X[0, :], X[1, :], c=Y, s=40, cmap=plt.cm.Spectral)
