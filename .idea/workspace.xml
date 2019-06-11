@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/assignment4_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py">
+        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/assignment4_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="520" column="95" selection-start-line="520" selection-start-column="95" selection-end-line="520" selection-end-column="95" />
+            <state relative-caret-position="282">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -65,13 +65,17 @@
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py" />
         <option value="$PROJECT_DIR$/CVSW/demo.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/testCases_v2.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/dnn_utils_v2.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/dnn_app_utils_v2.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/assignment4_1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="35" />
-    <option name="width" value="980" />
+    <option name="x" value="-9" />
+    <option name="y" value="36" />
+    <option name="width" value="978" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -108,6 +112,13 @@
               <item name="NNADL" type="462c0819:PsiDirectoryNode" />
               <item name="week3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="DeepLearningAndrewNg" type="462c0819:PsiDirectoryNode" />
+              <item name="NNADL" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -137,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment3_1">
+  <component name="RunManager" selected="Python.assignment4_1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,6 +219,9 @@
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -223,10 +237,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="assignment4_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/assignment4_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CVSW" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -242,35 +278,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="learnmatplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DeepLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PNL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PNL/learnmatplotlib.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment4_1" />
         <item itemvalue="Python.assignment3_1" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.assignment2_2" />
         <item itemvalue="Python.assignment2_1" />
-        <item itemvalue="Python.learnmatplotlib" />
       </list>
     </recent_temporary>
   </component>
@@ -293,14 +307,16 @@
       <workItem from="1560078507846" duration="2747000" />
       <workItem from="1560126248446" duration="917000" />
       <workItem from="1560147676247" duration="7125000" />
-      <workItem from="1560215444322" duration="1212000" />
+      <workItem from="1560215444322" duration="1968000" />
+      <workItem from="1560237464414" duration="309000" />
+      <workItem from="1560237801090" duration="1004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22093000" />
+    <option name="totallyTimeSpent" value="24162000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -311,9 +327,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23525469" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24128686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,14 +337,14 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32960895" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.43156424" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.35614526" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3519553" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Statistic" order="13" />
+      <window_info anchor="bottom" id="Statistic" order="13" weight="0.32909605" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -525,10 +540,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1319241370/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="2984" column="8" selection-start-line="2984" selection-start-column="8" selection-end-line="2984" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week3/assignment3_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="520" column="95" selection-start-line="520" selection-start-column="95" selection-end-line="520" selection-end-column="95" />
+        <state relative-caret-position="380">
+          <caret line="427" column="16" selection-start-line="427" selection-end-line="428" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/dnn_utils_v2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/dnn_app_utils_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/testCases_v2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/assignment4_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
