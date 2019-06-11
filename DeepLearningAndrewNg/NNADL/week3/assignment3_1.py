@@ -20,7 +20,7 @@ def plot_decision_boundary(model, X, y):
     plt.contourf(xx, yy, Z, cmap=plt.cm.Spectral)
     plt.ylabel('x2')
     plt.xlabel('x1')
-    plt.scatter(X[0, :], X[1, :], c=y, cmap=plt.cm.Spectral)
+    plt.scatter(X[0, :], X[1, :], c=np.squeeze(y), cmap=plt.cm.Spectral)
 
 
 def sigmoid(x):
@@ -519,21 +519,17 @@ if __name__ == '__main__':
 
     # Datasets
     noisy_circles, noisy_moons, blobs, gaussian_quantiles, no_structure = load_extra_datasets()
-
     datasets = {"noisy_circles": noisy_circles,
                 "noisy_moons": noisy_moons,
                 "blobs": blobs,
                 "gaussian_quantiles": gaussian_quantiles}
-
     # choose dataset
     dataset = "gaussian_quantiles"
-
     X, Y = datasets[dataset]
     X, Y = X.T, Y.reshape(1, Y.shape[0])
-
     # make blobs binary
     if dataset == "blobs":
         Y = Y % 2
-
     # Visualize the data
-    plt.scatter(X[0, :], X[1, :], c=Y, s=40, cmap=plt.cm.Spectral)
+    plt.scatter(X[0, :], X[1, :], c=np.squeeze(Y), s=40, cmap=plt.cm.Spectral)
+    plt.show()
