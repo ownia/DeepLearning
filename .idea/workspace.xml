@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week1/initialization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week1/assignment1_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +24,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week1/initialization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="178" column="42" selection-start-line="178" selection-start-column="42" selection-end-line="178" selection-end-column="42" />
+            <state relative-caret-position="308">
+              <caret line="14" lean-forward="true" selection-end-line="190" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week1/assignment1_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="190" selection-start-line="190" selection-end-line="190" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -120,6 +131,7 @@
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week1/reg_utils.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week1/testCases.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week1/initialization.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week1/assignment1_1.py" />
       </list>
     </option>
   </component>
@@ -380,12 +392,12 @@
       <workItem from="1560569915157" duration="131000" />
       <workItem from="1560947001373" duration="141000" />
       <workItem from="1561624218555" duration="84000" />
-      <workItem from="1562763047266" duration="1374000" />
+      <workItem from="1562763047266" duration="1550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38035000" />
+    <option name="totallyTimeSpent" value="38211000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -400,7 +412,7 @@
     <frame x="1913" y="-7" width="1038" height="1126" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15102041" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4030612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -695,8 +707,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week1/initialization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="178" column="42" selection-start-line="178" selection-start-column="42" selection-end-line="178" selection-end-column="42" />
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-end-line="190" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week1/assignment1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
