@@ -1,7 +1,3 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import sklearn
-import sklearn.datasets
 from DeepLearningAndrewNg.IDNN.week1.init_utils import *
 
 plt.rcParams['figure.figsize'] = (7.0, 4.0)  # set default size of plots
