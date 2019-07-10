@@ -1,8 +1,3 @@
-import numpy as np
-import matplotlib.pyplot as plt
-import sklearn
-import sklearn.datasets
-import scipy.io
 from DeepLearningAndrewNg.IDNN.week1.reg_utils import *
 from DeepLearningAndrewNg.IDNN.week1.testCases import *
 
