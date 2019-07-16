@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py" line="26" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="" />
+    <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +106,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,7 +136,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,12 +343,12 @@
       <workItem from="1562908557590" duration="3166000" />
       <workItem from="1563028703837" duration="824000" />
       <workItem from="1563080189118" duration="7979000" />
-      <workItem from="1563261897814" duration="255000" />
+      <workItem from="1563261897814" duration="777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55335000" />
+    <option name="totallyTimeSpent" value="55857000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -358,9 +360,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="0" width="1038" height="1119" extended-state="1" />
+    <frame x="1913" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2829418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28293413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -371,9 +373,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32897383" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32897383" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.43156424" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.5126646" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.5090543" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Statistic" order="13" weight="0.32909605" />
