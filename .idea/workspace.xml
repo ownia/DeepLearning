@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week1/assignment1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week1/assignment1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week1/assignment1_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+            <state relative-caret-position="22">
+              <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -345,12 +344,12 @@
       <workItem from="1563080189118" duration="7979000" />
       <workItem from="1563261897814" duration="1377000" />
       <workItem from="1563420993687" duration="763000" />
-      <workItem from="1563775882912" duration="695000" />
+      <workItem from="1563775882912" duration="1934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57915000" />
+    <option name="totallyTimeSpent" value="59154000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -375,7 +374,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32897383" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.43156424" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.5084986" />
@@ -744,8 +743,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week1/assignment1_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        <state relative-caret-position="22">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
