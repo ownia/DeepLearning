@@ -168,24 +168,24 @@ def conv_backward(dZ, cache):
     # Retrieve dimensions from dZ's shape
     (m, n_H, n_W, n_C) = dZ.shape
     # Initialize dA_prev, dW, db with the correct shapes
-    dA_prev = np.zeros((m, n_H_prev, n_W_prev, n_C_prev))
-    dW = np.zeros((f, f, n_C_prev, n_C))
-    db = np.zeros((1, 1, 1, n_C))
+    dA_prev = np.zeros(A_prev.shape)
+    dW = np.zeros(W.shape)
+    db = np.zeros(b.shape)
     # Pad A_prev and dA_prev
     A_prev_pad = zero_pad(A_prev, pad)
     dA_prev_pad = zero_pad(dA_prev, pad)
     for i in range(m):  # loop over the training examples
         # select ith training example from A_prev_pad and dA_prev_pad
-        a_prev_pad = A_prev_pad[i]
-        da_prev_pad = dA_prev_pad[i]
-        for h in range(n_H):  # loop over vertical axis of the output volume
-            for w in range(n_W):  # loop over horizontal axis of the output volume
+        a_prev_pad = A_prev_pad[i, :, :, :]
+        da_prev_pad = dA_prev_pad[i, :, :, :]
+        for h in range(n_H - f + 1):  # loop over vertical axis of the output volume
+            for w in range(n_W - f + 1):  # loop over horizontal axis of the output volume
                 for c in range(n_C):  # loop over the channels of the output volume
                     # Find the corners of the current "slice"
-                    vert_start = h * stride
-                    vert_end = vert_start + f
-                    horiz_start = w * stride
-                    horiz_end = horiz_start + f
+                    vert_start = h
+                    vert_end = h + f
+                    horiz_start = w
+                    horiz_end = w + f
                     # Use the corners to define the slice from a_prev_pad
                     a_slice = a_prev_pad[vert_start:vert_end, horiz_start:horiz_end, :]
                     # Update gradients for the window and the filter's parameters using the code formulas given above
@@ -193,7 +193,7 @@ def conv_backward(dZ, cache):
                     dW[:, :, :, c] += a_slice * dZ[i, h, w, c]
                     db[:, :, :, c] += dZ[i, h, w, c]
         # Set the ith training example's dA_prev to the unpaded da_prev_pad (Hint: use X[pad:-pad, pad:-pad, :])
-        dA_prev[i, :, :, :] = dA_prev_pad[i, pad:-pad, pad:-pad, :]
+        dA_prev[i, :, :, :] = da_prev_pad[pad:-pad, pad:-pad, :]
     # Making sure your output shape is correct
     assert (dA_prev.shape == (m, n_H_prev, n_W_prev, n_C_prev))
     return dA_prev, dW, db
