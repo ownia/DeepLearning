@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week1/assignment1_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+            <state relative-caret-position="458">
+              <caret line="197" column="63" selection-start-line="197" selection-start-column="63" selection-end-line="197" selection-end-column="63" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -344,12 +344,12 @@
       <workItem from="1563080189118" duration="7979000" />
       <workItem from="1563261897814" duration="1377000" />
       <workItem from="1563420993687" duration="763000" />
-      <workItem from="1563775882912" duration="1934000" />
+      <workItem from="1563775882912" duration="2959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59154000" />
+    <option name="totallyTimeSpent" value="60179000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -743,8 +743,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week1/assignment1_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        <state relative-caret-position="458">
+          <caret line="197" column="63" selection-start-line="197" selection-start-column="63" selection-end-line="197" selection-end-column="63" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
