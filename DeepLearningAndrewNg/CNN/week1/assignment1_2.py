@@ -61,13 +61,13 @@ def forward_propagation(X, parameters):
     # RELU
     A1 = tf.nn.relu(Z1)
     # MAXPOOL: window 8x8, sride 8, padding 'SAME'
-    P1 = tf.nn.max_pool(A1, [1, 8, 8, 1], strides=[1, 8, 8, 1], padding='SAME')
+    P1 = tf.nn.max_pool2d(A1, [1, 8, 8, 1], strides=[1, 8, 8, 1], padding='SAME')
     # CONV2D: filters W2, stride 1, padding 'SAME'
     Z2 = tf.nn.conv2d(P1, W2, strides=[1, 1, 1, 1], padding='SAME')
     # RELU
     A2 = tf.nn.relu(Z2)
     # MAXPOOL: window 4x4, stride 4, padding 'SAME'
-    P2 = tf.nn.max_pool(A2, [1, 4, 4, 1], strides=[1, 4, 4, 1], padding='SAME')
+    P2 = tf.nn.max_pool2d(A2, [1, 4, 4, 1], strides=[1, 4, 4, 1], padding='SAME')
     # FLATTEN
     P2 = tf.contrib.layers.flatten(P2)
     # FULLY-CONNECTED without non-linear activation function (not not call softmax).
@@ -88,7 +88,7 @@ def compute_cost(Z3, Y):
     Returns:
     cost - Tensor of the cost function
     """
-    cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(logits=Z3, labels=Y))
+    cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits_v2(logits=Z3, labels=Y))
     return cost
 
 
@@ -115,7 +115,7 @@ def model(X_train, Y_train, X_test, Y_test, learning_rate=0.009,
     parameters -- parameters learnt by the model. They can then be used to predict.
     """
     ops.reset_default_graph()  # to be able to rerun the model without overwriting tf variables
-    tf.set_random_seed(1)  # to keep results consistent (tensorflow seed)
+    tf.compat.v1.set_random_seed(1)  # to keep results consistent (tensorflow seed)
     seed = 3  # to keep results consistent (numpy seed)
     (m, n_H0, n_W0, n_C0) = X_train.shape
     n_y = Y_train.shape[1]
@@ -129,11 +129,11 @@ def model(X_train, Y_train, X_test, Y_test, learning_rate=0.009,
     # Cost function: Add cost function to tensorflow graph
     cost = compute_cost(Z3, Y)
     # Backpropagation: Define the tensorflow optimizer. Use an AdamOptimizer that minimizes the cost.
-    optimizer = tf.train.AdamOptimizer(learning_rate).minimize(cost)
+    optimizer = tf.compat.v1.train.AdamOptimizer(learning_rate).minimize(cost)
     # Initialize all the variables globally
-    init = tf.global_variables_initializer()
+    init = tf.compat.v1.global_variables_initializer()
     # Start the session to compute the tensorflow graph
-    with tf.Session() as sess:
+    with tf.compat.v1.Session() as sess:
         # Run the initialization
         sess.run(init)
         # Do the training loop
@@ -224,7 +224,7 @@ if __name__ == '__main__':
         parameters = initialize_parameters()
         Z3 = forward_propagation(X, parameters)
         cost = compute_cost(Z3, Y)
-        init = tf.global_variables_initializer()
+        init = tf.compat.v1.global_variables_initializer()
         sess.run(init)
         a = sess.run(cost, {X: np.random.randn(4, 64, 64, 3), Y: np.random.randn(4, 6)})
         print("cost = " + str(a))
