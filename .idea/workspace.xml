@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/KerasTutorial/images/happy-house.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/KerasTutorial/images/house-members.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/KerasTutorial/keras_tutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/KerasTutorial/keras_tutorial.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,22 +15,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/KerasTutorial/keras_tutorial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/keras/utils/vis_utils.py">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="157">
-              <caret line="110" column="42" selection-start-line="110" selection-start-column="42" selection-end-line="110" selection-end-column="42" />
+              <caret line="109" column="14" selection-start-line="109" selection-start-column="14" selection-end-line="109" selection-end-column="14" />
               <folding>
-                <element signature="e#48#86#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,6 +49,7 @@
       <find>trans</find>
       <find>ops</find>
       <find>pydot</find>
+      <find>pydotpl</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,13 +95,13 @@
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week3/tf_utils.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week1/assignment1_1.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week1/assignment1_2.py" />
-        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/KerasTutorial/keras_tutorial.py" />
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/keras/utils/vis_utils.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/KerasTutorial/keras_tutorial.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2003" />
     <option name="width" value="1297" />
     <option name="height" value="1398" />
   </component>
@@ -163,41 +153,6 @@
               <item name="CNN" type="462c0819:PsiDirectoryNode" />
               <item name="week2" type="462c0819:PsiDirectoryNode" />
               <item name="KerasTutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="keras" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="keras" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -412,12 +367,12 @@
       <workItem from="1563775882912" duration="3667000" />
       <workItem from="1563972335348" duration="4156000" />
       <workItem from="1564279221952" duration="2451000" />
-      <workItem from="1564579136108" duration="3154000" />
+      <workItem from="1564579136108" duration="5589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70648000" />
+    <option name="totallyTimeSpent" value="73083000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -429,10 +384,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1914" y="0" width="1037" height="1118" extended-state="0" />
-    <editor active="true" />
+    <frame x="1913" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2890705" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28892216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -442,10 +396,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.44320488" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286004" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.44265592" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015322" side_tool="true" weight="0.47870183" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49846783" weight="0.47870183" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49846783" visible="true" weight="0.4748491" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Statistic" order="13" weight="0.3286004" />
@@ -454,7 +408,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="3" side_tool="true" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="SciView" order="5" visible="true" weight="0.030643513" />
+      <window_info active="true" anchor="right" id="SciView" order="5" visible="true" weight="0.0149700595" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21782842" />
@@ -832,19 +786,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/KerasTutorial/keras_tutorial.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/keras/utils/vis_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="333">
+          <caret line="100" column="26" lean-forward="true" selection-start-line="100" selection-start-column="26" selection-end-line="100" selection-end-column="26" />
+          <folding>
+            <element signature="e#48#86#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/keras/utils/vis_utils.py">
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/KerasTutorial/keras_tutorial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
-          <caret line="110" column="42" selection-start-line="110" selection-start-column="42" selection-end-line="110" selection-end-column="42" />
+          <caret line="109" column="14" selection-start-line="109" selection-start-column="14" selection-end-line="109" selection-end-column="14" />
           <folding>
-            <element signature="e#48#86#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

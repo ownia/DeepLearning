@@ -7,7 +7,7 @@ from keras.preprocessing import image
 from keras.utils import layer_utils
 from keras.utils.data_utils import get_file
 from keras.applications.imagenet_utils import preprocess_input
-import pydotplus
+import pydot_ng as pydot
 from IPython.display import SVG
 from keras.utils.vis_utils import model_to_dot
 from keras.utils import plot_model
@@ -15,7 +15,6 @@ from DeepLearningAndrewNg.CNN.week2.KerasTutorial.kt_utils import *
 import keras.backend as K
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import imshow
-import graphviz
 
 
 def model(input_shape):
