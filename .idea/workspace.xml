@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week2/assignment2_2.py" line="26" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/ResNets/assignment2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week2/ResNets/assignment2_2.py" afterDir="false" />
-    </list>
+    <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +138,14 @@
               <item name="DeepLearningAndrewNg" type="462c0819:PsiDirectoryNode" />
               <item name="CNN" type="462c0819:PsiDirectoryNode" />
               <item name="week2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="DeepLearningAndrewNg" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="ResNets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -359,12 +363,12 @@
       <workItem from="1564579136108" duration="7183000" />
       <workItem from="1564630925294" duration="1547000" />
       <workItem from="1564632628989" duration="13000" />
-      <workItem from="1564632727525" duration="2865000" />
+      <workItem from="1564632727525" duration="3086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79102000" />
+    <option name="totallyTimeSpent" value="79323000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -377,9 +381,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="2062" height="1126" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1755102" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1751497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
