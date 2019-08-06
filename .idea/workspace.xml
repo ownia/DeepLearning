@@ -5,264 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/assignment4_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/datasets/test_happy.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/datasets/train_face.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/datasets/train_happy.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/fr_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/andrew.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/arnaud.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/benoit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/bertrand.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/camera_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/camera_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/camera_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/camera_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/camera_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/camera_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/dan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/danielle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/distance_kiank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/distance_matrix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/f_x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/felix.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/inception_block1a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/kevin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/kian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/pixel_comparison.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/sebastiano.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/tian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/triplet_comparison.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/images/younes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/inception_blocks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/inception_blocks_v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/nn4.small2.v7.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn3_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn3_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn3_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/bn3_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/conv3_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/conv3_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/dense_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/dense_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_1x1_bn_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_1x1_bn_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_1x1_bn_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_1x1_bn_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_1x1_conv_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_1x1_conv_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_3x3_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_5x5_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_pool_bn_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_pool_bn_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_pool_bn_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_pool_bn_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_pool_conv_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3a_pool_conv_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_1x1_bn_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_1x1_bn_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_1x1_bn_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_1x1_bn_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_1x1_conv_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_1x1_conv_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_3x3_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_5x5_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_pool_bn_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_pool_bn_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_pool_bn_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_pool_bn_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_pool_conv_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3b_pool_conv_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_3x3_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_3c_5x5_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_1x1_bn_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_1x1_bn_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_1x1_bn_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_1x1_bn_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_1x1_conv_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_1x1_conv_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_3x3_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_5x5_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_pool_bn_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_pool_bn_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_pool_bn_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_pool_bn_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_pool_conv_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4a_pool_conv_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_3x3_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_4e_5x5_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_1x1_bn_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_1x1_bn_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_1x1_bn_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_1x1_bn_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_1x1_conv_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_1x1_conv_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_conv2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_conv2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_3x3_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_pool_bn_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_pool_bn_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_pool_bn_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_pool_bn_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_pool_conv_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5a_pool_conv_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_1x1_bn_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_1x1_bn_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_1x1_bn_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_1x1_bn_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_1x1_conv_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_1x1_conv_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_bn1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_bn1_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_bn1_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_bn1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_bn2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_bn2_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_bn2_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_bn2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_conv1_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_conv1_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_conv2_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_3x3_conv2_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_pool_bn_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_pool_bn_m.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_pool_bn_v.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_pool_bn_w.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_pool_conv_b.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/weights/inception_5b_pool_conv_w.csv" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/assignment4_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/nst_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/nst_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/output/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/output/0.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -273,11 +20,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/FaceRecognition/assignment4_1.py">
+        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/assignment4_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <element signature="e#1#70#0" expanded="true" />
+                <element signature="e#1#75#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -358,14 +105,15 @@
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week3/assignment3_1.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/assignment4_1.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/FaceRecognition/assignment4_1.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/nst_utils.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/assignment4_2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1911" />
-    <option name="y" value="-9" />
-    <option name="width" value="1298" />
-    <option name="height" value="1408" />
+    <option name="x" value="1912" />
+    <option name="width" value="1297" />
+    <option name="height" value="1398" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -406,7 +154,7 @@
               <item name="DeepLearningAndrewNg" type="462c0819:PsiDirectoryNode" />
               <item name="CNN" type="462c0819:PsiDirectoryNode" />
               <item name="week4" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceRecognition" type="462c0819:PsiDirectoryNode" />
+              <item name="NeuralStyleTransfer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -430,6 +178,7 @@
       </console-settings>
     </option>
     <option name="myShowVariablesByDefault" value="false" />
+    <option name="myIpythonEnabled" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -449,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment4_1">
+  <component name="RunManager" selected="Python.assignment4_2">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -516,28 +265,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="assignment3_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DeepLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningAndrewNg/IDNN/week3/assignment3_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="assignment4_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -549,6 +276,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/FaceRecognition/assignment4_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment4_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/assignment4_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -581,6 +327,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment4_2" />
         <item itemvalue="Python.assignment4_1" />
         <item itemvalue="Python.assignment3_1 (1)" />
         <item itemvalue="Python.assignment2_2" />
@@ -628,12 +375,12 @@
       <workItem from="1564632628989" duration="13000" />
       <workItem from="1564632727525" duration="3086000" />
       <workItem from="1564988929036" duration="3754000" />
-      <workItem from="1565066800290" duration="2940000" />
+      <workItem from="1565066800290" duration="5063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86017000" />
+    <option name="totallyTimeSpent" value="88140000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -645,10 +392,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1038" height="1126" extended-state="0" />
+    <frame x="1914" y="0" width="1037" height="1118" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16020408" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35204083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -666,7 +413,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3279678" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.4416499" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015322" side_tool="true" weight="0.47733712" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49846783" visible="true" weight="0.5160966" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49846783" weight="0.51926976" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -674,7 +421,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="3" side_tool="true" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="SciView" order="5" weight="0.93877554" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.9397344" />
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
@@ -711,21 +458,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CVSW/data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2838" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CVSW/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="43" lean-forward="true" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/INNS/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2816">
@@ -1071,9 +803,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/FaceRecognition/assignment4_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="22">
+          <caret line="95" column="16" lean-forward="true" selection-start-line="95" selection-end-line="96" />
           <folding>
             <element signature="e#1#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/nst_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
+          <folding>
+            <element signature="e#138#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/assignment4_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#75#0" expanded="true" />
           </folding>
         </state>
       </provider>
