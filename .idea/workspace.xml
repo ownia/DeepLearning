@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/assignment4_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/nst_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/nst_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/output/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/output/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -375,12 +371,12 @@
       <workItem from="1564632628989" duration="13000" />
       <workItem from="1564632727525" duration="3086000" />
       <workItem from="1564988929036" duration="3754000" />
-      <workItem from="1565066800290" duration="5063000" />
+      <workItem from="1565066800290" duration="5263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88140000" />
+    <option name="totallyTimeSpent" value="88340000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -392,8 +388,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1914" y="0" width="1037" height="1118" extended-state="0" />
-    <editor active="true" />
+    <frame x="1913" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.35204083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -411,7 +406,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
       <window_info anchor="bottom" id="Statistic" order="7" weight="0.3279678" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3279678" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4416499" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4416499" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015322" side_tool="true" weight="0.47733712" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49846783" weight="0.51926976" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
