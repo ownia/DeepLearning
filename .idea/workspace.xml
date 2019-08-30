@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/RNN/assignment1_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="233" column="88" selection-start-line="233" selection-start-column="88" selection-end-line="233" selection-end-column="88" />
+            <state relative-caret-position="466">
+              <caret line="231" column="47" selection-start-line="231" selection-start-column="47" selection-end-line="231" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -374,12 +374,12 @@
       <workItem from="1564632727525" duration="3086000" />
       <workItem from="1564988929036" duration="3754000" />
       <workItem from="1565066800290" duration="5263000" />
-      <workItem from="1567172540423" duration="1043000" />
+      <workItem from="1567172540423" duration="1372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89383000" />
+    <option name="totallyTimeSpent" value="89712000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -812,8 +812,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/RNN/assignment1_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="233" column="88" selection-start-line="233" selection-start-column="88" selection-end-line="233" selection-end-column="88" />
+        <state relative-caret-position="466">
+          <caret line="231" column="47" selection-start-line="231" selection-start-column="47" selection-end-line="231" selection-end-column="47" />
         </state>
       </provider>
     </entry>

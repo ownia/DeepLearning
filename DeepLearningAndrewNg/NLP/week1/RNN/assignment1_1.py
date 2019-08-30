@@ -221,15 +221,15 @@ def rnn_cell_backward(da_next, cache):
     ba = parameters["ba"]
     by = parameters["by"]
     # compute the gradient of tanh with respect to a_next
-    dtanh = None
+    dtanh = (1 - a_next * a_next) * da_next
     # compute the gradient of the loss with respect to Wax
-    dxt = None
-    dWax = None
+    dxt = np.dot(Wax.T, dtanh)
+    dWax = np.dot(dtanh, xt.T)
     # compute the gradient with respect to Waa
-    da_prev = None
-    dWaa = None
+    da_prev = np.dot(Waa.T, dtanh)
+    dWaa = np.dot(dtanh, a_prev.T)
     # compute the gradient with respect to b
-    dba = None
+    dba = np.sum(dtanh, keepdims=True, axis=-1)
     # Store the gradients in a python dictionary
     gradients = {"dxt": dxt, "da_prev": da_prev, "dWax": dWax, "dWaa": dWaa, "dba": dba}
     return gradients
