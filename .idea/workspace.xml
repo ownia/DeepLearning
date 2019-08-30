@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/Building+a+Recurrent+Neural+Network+-+Step+by+Step/data/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/Building+a+Recurrent+Neural+Network+-+Step+by+Step/rnn_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/Building+a+Recurrent+Neural+Network+-+Step+by+Step/shakespeare.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/Building+a+Recurrent+Neural+Network+-+Step+by+Step/utils.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +18,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/assignment4_2.py">
+        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/RNN/assignment1_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="22">
+              <caret line="1" column="58" lean-forward="true" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
               <folding>
-                <element signature="e#1#75#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,13 +108,16 @@
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/FaceRecognition/assignment4_1.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/nst_utils.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/assignment4_2.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/Building+a+Recurrent+Neural+Network+-+Step+by+Step/assignment1_1.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/RNN/assignment1_1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="width" value="1297" />
-    <option name="height" value="1398" />
+    <option name="x" value="240" />
+    <option name="y" value="128" />
+    <option name="width" value="1440" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -135,22 +143,22 @@
               <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
               <item name="DeepLearningAndrewNg" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="NLP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
               <item name="DeepLearningAndrewNg" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="week4" type="462c0819:PsiDirectoryNode" />
+              <item name="NLP" type="462c0819:PsiDirectoryNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
               <item name="DeepLearningAndrewNg" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
-              <item name="week4" type="462c0819:PsiDirectoryNode" />
-              <item name="NeuralStyleTransfer" type="462c0819:PsiDirectoryNode" />
+              <item name="NLP" type="462c0819:PsiDirectoryNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
+              <item name="RNN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -265,6 +273,9 @@
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/FaceRecognition" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -284,6 +295,9 @@
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -372,11 +386,12 @@
       <workItem from="1564632727525" duration="3086000" />
       <workItem from="1564988929036" duration="3754000" />
       <workItem from="1565066800290" duration="5263000" />
+      <workItem from="1567172540423" duration="314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88340000" />
+    <option name="totallyTimeSpent" value="88654000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -388,9 +403,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="2062" height="1126" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35204083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25603217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -406,7 +422,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
       <window_info anchor="bottom" id="Statistic" order="7" weight="0.3279678" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3279678" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4416499" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2776204" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015322" side_tool="true" weight="0.47733712" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49846783" weight="0.51926976" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -453,33 +469,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/INNS/scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2816">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-          <folding>
-            <element signature="e#18#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/axes/_axes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8338">
-          <caret line="4289" selection-start-line="4289" selection-end-line="4289" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1319241370/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="2984" column="8" selection-start-line="2984" selection-start-column="8" selection-end-line="2984" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/dnn_utils_v2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NNADL/week4/testCases_v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -789,13 +778,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/assignment4_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/Face Recognition/assignment4_1.py" />
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/FaceRecognition/assignment4_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -819,8 +802,32 @@
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/assignment4_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret lean-forward="true" />
           <folding>
-            <element signature="e#1#75#0" expanded="true" />
+            <element signature="e#0#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/Building+a+Recurrent+Neural+Network+-+Step+by+Step/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/Building+a+Recurrent+Neural+Network+-+Step+by+Step/shakespeare.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/Building+a+Recurrent+Neural+Network+-+Step+by+Step/assignment1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/RNN/assignment1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="58" lean-forward="true" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
