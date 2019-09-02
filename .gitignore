@@ -2,3 +2,5 @@ venv
 /DeepLearningAndrewNg/CNN/week2/ResNets/ResNet50.h5
 /DeepLearningAndrewNg/CNN/week3/model_data/yolo.h5
 /DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/pretrained-model/imagenet-vgg-verydeep-19.mat
+/DeepLearningAndrewNg/NLP/week2/Emojify/data/glove.6B.50d.txt
+/DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/data/glove.6B.50d.txt
