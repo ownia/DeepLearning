@@ -4,3 +4,5 @@ venv
 /DeepLearningAndrewNg/CNN/week4/NeuralStyleTransfer/pretrained-model/imagenet-vgg-verydeep-19.mat
 /DeepLearningAndrewNg/NLP/week2/Emojify/data/glove.6B.50d.txt
 /DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/data/glove.6B.50d.txt
+/DeepLearningAndrewNg/NLP/week3/Trigger_word_detection/XY_dev/X_dev.npy
+/DeepLearningAndrewNg/NLP/week3/Trigger_word_detection/XY_train/X.npy
