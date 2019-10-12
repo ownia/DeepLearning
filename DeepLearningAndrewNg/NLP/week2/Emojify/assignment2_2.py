@@ -29,7 +29,6 @@ def sentence_to_avg(sentence, word_to_vec_map):
 
 
 # GRADED FUNCTION: model
-
 def model(X, Y, word_to_vec_map, learning_rate=0.01, num_iterations=400):
     """
     Model to train word vector representations in numpy.

@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2736ec-13f0-461b-a18a-79503340dea5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/emo_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/emo_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/assignment2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/assignment2_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_2.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/assignment2_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="-2288">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -30,11 +29,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="-1584">
+              <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1122">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,14 +141,14 @@
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/Jazz_improvisation_with_LSTM/assignment1_3.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/assignment1_1.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/w2v_utils.py" />
-        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/assignment2_1.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/emo_utils.py" />
-        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_2.py" />
         <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_3.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_2.py" />
+        <option value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/assignment2_1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="125" />
     <option name="width" value="1440" />
@@ -231,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assignment2_2">
+  <component name="RunManager" selected="Python.assignment2_3">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,28 +282,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\o4516\PycharmProjects\DeepLearning\DeepLearningAndrewNg\NLP\week2\Word_Vector_Representation\assignment2_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="assignment1_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DeepLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/dinosaurus_island" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week1/dinosaurus_island/assignment1_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,13 +350,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="assignment2_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment2_3" />
         <item itemvalue="Python.assignment2_2" />
         <item itemvalue="Python.assignment2_1" />
         <item itemvalue="Python.assignment1_1 (1)" />
         <item itemvalue="Python.assignment1_3" />
-        <item itemvalue="Python.assignment1_2" />
       </list>
     </recent_temporary>
   </component>
@@ -414,12 +425,12 @@
       <workItem from="1567227850214" duration="4740000" />
       <workItem from="1569676496532" duration="404000" />
       <workItem from="1570535740494" duration="269000" />
-      <workItem from="1570884588530" duration="3140000" />
+      <workItem from="1570884588530" duration="4028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98521000" />
+    <option name="totallyTimeSpent" value="99409000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -452,7 +463,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3279678" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.48016998" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.22237961" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49798927" weight="0.49433428" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49798927" weight="0.7507082" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -770,16 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/assignment2_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/emo_utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="47">
@@ -787,20 +788,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_2.py">
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="-1584">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_3.py">
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Emojify/assignment2_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="-1122">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningAndrewNg/NLP/week2/Word_Vector_Representation/assignment2_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2288">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

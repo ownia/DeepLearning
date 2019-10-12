@@ -3,7 +3,6 @@ from DeepLearningAndrewNg.NLP.week2.Word_Vector_Representation.w2v_utils import 
 
 
 # GRADED FUNCTION: cosine_similarity
-
 def cosine_similarity(u, v):
     """
     Cosine similarity reflects the degree of similariy between u and v
